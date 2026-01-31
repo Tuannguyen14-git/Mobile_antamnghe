@@ -43,3 +43,22 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# =====================
+# .NET / Visual Studio
+# =====================
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.dll
+*.exe
+*.pdb
+*.cache
+# .NET / Visual Studio
+.vs/
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
